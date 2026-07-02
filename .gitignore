@@ -1,0 +1,16 @@
+# Python caching
+__pycache__/
+*.pyc
+
+# Streamlit runtime files
+.streamlit/config.toml
+.cache/
+
+# Virtual environments (if you used one)
+venv/
+env/
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
